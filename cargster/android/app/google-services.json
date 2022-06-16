@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "906714337865",
+    "project_id": "cargster-8e1dd",
+    "storage_bucket": "cargster-8e1dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906714337865:android:0efb985dcacad596792598",
+        "android_client_info": {
+          "package_name": "com.podgorodnoe.cargster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906714337865-q4l62c2nbn25k64vk6sfdtor6qfmv2pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.podgorodnoe.cargster",
+            "certificate_hash": "7a4476f15ac22e5e798ee81ce50af5857a49431f"
+          }
+        },
+        {
+          "client_id": "906714337865-cvnfgfrksj9tg42evbf10k59m2uknr9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV5ykZWN0kjrVVWJj9d1NLhlZA7n--bkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906714337865-cvnfgfrksj9tg42evbf10k59m2uknr9a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906714337865-v6toedc7fmlfemn784qjcvq1hqngjjf8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.podgorodnoe.cargster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
